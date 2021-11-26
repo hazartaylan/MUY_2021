@@ -1,2 +1,2 @@
-# MUY_2021
+# Satellite
 Flight software of Satellite
